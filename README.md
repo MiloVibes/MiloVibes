@@ -8,6 +8,16 @@ I build **data-driven applications** that integrate **machine learning and scala
 
 ---
 
+## 🎓 Education  
+🎓 **University of Texas at San Antonio** – B.S. in Computer Science, December 2024  
+📚 **Relevant Coursework:**  
+- **Artificial Intelligence**  
+- **Machine Learning**  
+- **Data Science**  
+- **Computer Networks**  
+
+---
+
 ## 🛠️ What I'm Working On  
 🚀 **[Travel Recommendation System](#)** *(In Progress)*  
 Building a **machine learning-powered** recommendation engine to **suggest travel destinations** based on user preferences.  
